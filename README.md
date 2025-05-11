@@ -22,5 +22,5 @@ This is a Laravel application that allows users to manage posts. It provides fea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/laravel-posts-app.git
-cd laravel-posts-app
+git clone https://github.com/KhaledAbdurahman/blogy.git
+cd blogy
